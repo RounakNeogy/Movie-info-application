@@ -1,4 +1,6 @@
 # Movie Info App
 ## Screenshots
-![](./src/Images/S1.png)
-![](./src/Images/S2.png)
+![](./src/Images/screenshot1.png)
+<hr/>
+
+![](./src/Images/screenshot2.png)
