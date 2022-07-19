@@ -1,6 +1,7 @@
 @import "../../Common/colours.scss";
 
-.movie-list{
+.movie-list,
+.show-list{
     margin: 20px 0px; 
     h2{
         color: $font-secondary;
@@ -9,9 +10,9 @@
     }
 }
 
-.movie-container{
-    display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(220px,1fr));
-    grid-gap: 15px;
-    padding-bottom: 15px;
-}
+// .movie-container{
+//     display: grid;
+//     grid-template-columns: repeat(auto-fill,minmax(220px,1fr));
+//     grid-gap: 15px;
+//     // padding-bottom: 15px;
+// }
