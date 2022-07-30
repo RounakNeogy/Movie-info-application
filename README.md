@@ -7,6 +7,10 @@ This is a movie information application which shows all the movies and shows, a 
 ```terminal
 git clone https://github.com/RounakNeogy/Movie-info-application.git
 ```
+- Go to the Movie-info-application folder
+```terminal
+cd Movie-info-application
+```
 - Install node modules
 ```terminal
 npm install
